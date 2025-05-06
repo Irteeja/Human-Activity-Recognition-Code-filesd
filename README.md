@@ -1,1 +1,1 @@
-# Human-Activity-Recognition-Code-filesd
+# Human-Activity-Recognition-Code-files
